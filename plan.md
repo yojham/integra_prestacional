@@ -98,8 +98,8 @@ En resumen, la implementación de este plan representa un paso significativo hac
 ## Presupuesto
 
 #### Equipamiento
-- **Chromebooks**: $600 cada una (Cantidad: por definir)
-- **Raspberry Pi**: $100 cada uno (Cantidad: por definir)
+- **Chromebooks**: $700 cada una (Cantidad: por definir)
+- **Raspberry Pi**: $350 cada uno (Cantidad: por definir)
 
 #### Recursos Humanos
 - **Contratación de Implementadores de Plataformas Open Source**: En base a proyecto de tele-atiendo $2000 mensuales por 6 meses
@@ -107,6 +107,8 @@ En resumen, la implementación de este plan representa un paso significativo hac
 #### Otros Gastos
 - **Capacitación y Formación**: $10,000
 - **Soporte Técnico y Mantenimiento**: $5,000
+- **Infraestructura en Nube: Servidores/ Storage**: Servicio de Secretaria de Gobierno Digital
+- **Desarrollos complementarios**: Oficina General de Tecnologías de la Información MINSA en Conjunto con Secretaria de Gobierno Digital.
 
 **Nota**: Se tiene que estructurar mejor el presupuesto
 
